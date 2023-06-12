@@ -129,4 +129,4 @@ while True:
         if dona.active:
             display.blit(dona.imagen, dona.rect)
 
-    pygame.display.flip() # muestra la pantalla # set-executionpolicy unrestricted
+    pygame.display.flip() # muestra la pantalla # set-executionpolicy unrestricted####
